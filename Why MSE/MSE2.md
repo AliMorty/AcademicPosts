@@ -15,7 +15,7 @@ First, let's define linear regression.<br>
 Suppose for each data, we have n-dimensional vector X and label Y. We assume that there is a linear relationship between X and Y. (ie. a.X+b=Y) thus we want to find the best condidate for (a,b). But the problem is that there are some unknown factors affecting the Y. We call them noise. <br>
 We can rewrite the equation:
  
-
+![f](./1.bmp)
 
 $ Y(x) = a.x + b + Noise(x)
 $
