@@ -55,7 +55,7 @@ Now the probablity of Y is as follows:
 For finding the most probable configuration, we Use Maximum Likelihood Estimation. 
 
 ## Maximum Likelihood Estimation
-Maximum likelihood estimation is a method used for finding most likely parameters setting that can generate samples data. If we have m samples $(X_i, Y_i)$, and parameter $a, b $ then, we can to calculate the probability of observation of data: 
+Maximum likelihood estimation is a method used for finding most likely parameters setting that can generate samples data. If we have m samples $(X_i, Y_i)$, and parameter $a, b $ then, we can calculate the probability of observation of data: 
 
 ![f](./7.bmp)
 
