@@ -20,7 +20,7 @@ We can rewrite the equation:
 
 
 There are different ways to find (a,b). In one way, we can think about (a,b) as random variables and we want to know which setting of (a,b) is the most likely one.<br>
-We also have to consider the noise as a random variable so we have to assign a distribution for the noise. We can imagine there are k independent unknown factors with different unkown distribution affecting culmunatively the Y. Because there are a lot of different small factors (k > 30), there is a more general theorem than Central Limit Theorem which states that:
+We also have to consider the noise as a random variable so we have to assign a distribution for the noise. We can imagine the noise consists of k independent unknown factors with different unkown distribution affecting culmunatively the Y. Because there are a lot of different small factors (k > 30), there is a more general theorem than Central Limit Theorem which states that:
 > No matter if series of factor has the same distribution or not, (when our factors are small enough and have some specific properties) the distribution of their sum converges in distribution to **Normal distribution**. <br> <br> 
 
 So when we have  X = a  ,our noise has the distribution like this: 
