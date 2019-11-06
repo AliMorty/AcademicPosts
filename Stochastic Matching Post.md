@@ -1,5 +1,5 @@
 # Online Stochastic Matching
-In this post, I want to explain a bit about my research experience in Online Stochastic Matching. But as my research for this project is not finished yet, I will just explain the preliminaries of my research and the way I (as a junior researcher) look at these type of problems. Ok. Let's start! <br>
+In this post, I want to explain a bit about my research experience in Online Stochastic Matching. But as my research for this project is not finished yet, I will just explain the preliminaries of my research and the way I (as a junior researcher) look at these type of problems. <br>
 
 
 In 1990 Karp, and Vazirani and Vazirani published a paper called an Optimal Algorithm for on-line bipartite matching which introduces the ranking algorithm. They showed that their algorithm achieves (1-1/e) competitive ratio (comparing to offline version,) and no other algorithm can beat this ratio. This paper was a starting point for lots of future works. So it is useful to take a close look at their algorithm and ways to analyze it. <br>
