@@ -10,8 +10,8 @@ There are different ways to introduce an on-line version of Bipartite matching. 
 
 So here the challenge is that we need to choose a permanent action (matching) before knowing all information about the problem (just like any online algorithm problem). If we were allowed to change our past decisions, then on the arrival of each right node, we would be able to match optimally whether by matching it to a free neighbor or by just a chain of swapping of matched nodes. But now upon the arrival of each node, we need to match it permanently or leave it free. <br>
 
-### A simple algorithm
->> Upon the arrival of each vertex, match it to its lowest index free neighbors if it has any.<br>
+> **A simple algorithm**
+> Upon the arrival of each vertex, match it to its lowest index free neighbors if it has any.<br>
 
 
 
