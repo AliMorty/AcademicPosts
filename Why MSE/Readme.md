@@ -1,5 +1,6 @@
 ### Notice
 Because Github doesn't support Latex Formula (I think), I encourage you to visit [here](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) for a better view. Thanks <br>
+$$ x^2 =4 $$
 # Why Mean Squared Error? 
 For me, a question arises when people use **MSE** as a objective function for their learning tasks. The question is: **WHY??** But if you ask this question you probably get answers such as: 
 1. Since it works well on this dataset!
